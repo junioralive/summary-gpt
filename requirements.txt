@@ -3,7 +3,8 @@ deep-translator==1.11.4
 en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
 gTTS==2.5.3
 nltk==3.9.1
-numpy==2.1.1
+numpy==1.16.1
+gensim==3.8.3
 pandas==2.2.2
 pytube==15.0.0
 spacy==3.7.4
@@ -11,4 +12,3 @@ streamlit==1.36.0
 torch==2.5.0
 transformers==4.44.2
 youtube-transcript-api==0.6.2
-gensim==3.8.3
