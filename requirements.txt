@@ -11,3 +11,4 @@ streamlit==1.36.0
 torch==2.5.0
 transformers==4.44.2
 youtube-transcript-api==0.6.2
+gensim==3.8.3
