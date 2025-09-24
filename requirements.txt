@@ -1,0 +1,13 @@
+﻿beautifulsoup4==4.12.3                # Parsing if needed (YouTube/video metadata)
+deep-translator==1.8.1                # Translation
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.2.0/en_core_web_sm-3.2.0.tar.gz
+gTTS==2.2.3                           # Text-to-speech
+nltk==3.7                             # NLP tasks
+numpy==1.24.4                         # General computation
+pandas==2.0.3                         # Data handling
+pytube==12.0.0                        # YouTube video downloading
+spacy==3.2.6                          # NLP backbone
+streamlit==1.8.1                      # UI
+torch==1.11.0                         # Needed by transformers
+transformers==4.18.0                  # Summarization models
+youtube-transcript-api==0.6.0        # Transcript extractor
